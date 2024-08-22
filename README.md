@@ -19,7 +19,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dikyefriansyah&show_icons=true&locale=en&layout=compact" alt="dikyefriansyah" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dikyefriansyah&show_icons=true&locale=en" alt="dikyefriansyah" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dikyefriansyah&show_icons=true&locale=en&include_all_commits=true" alt="dikyefriansyah" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dikyefriansyah&" alt="dikyefriansyah" /></p>
 
